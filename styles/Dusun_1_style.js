@@ -11,7 +11,7 @@ function categories_Dusun_1(feature, value, size, resolution, labelText,
                               bufferWidth)
     })];
                     break;
-case 'Rep Tatar':
+case 'Repok Tatar':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(75,210,68,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -19,7 +19,7 @@ case 'Rep Tatar':
                               bufferWidth)
     })];
                     break;
-case 'Rep Kantar':
+case 'Repok Kantar':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(95,102,240,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -27,7 +27,7 @@ case 'Rep Kantar':
                               bufferWidth)
     })];
                     break;
-case 'PSJ Utara':
+case 'Pesorongan Jukung Utara':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(184,210,196,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -35,7 +35,7 @@ case 'PSJ Utara':
                               bufferWidth)
     })];
                     break;
-case 'PSJ Selatan':
+case 'Pesorongan Jukung Selatan':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(114,175,225,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -43,7 +43,7 @@ case 'PSJ Selatan':
                               bufferWidth)
     })];
                     break;
-case 'LM Barat':
+case 'Lebah Munte Barat':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(194,62,203,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -59,7 +59,7 @@ case 'Lebah Sempage Utara':
                               bufferWidth)
     })];
                     break;
-case 'LBS Utara':
+case 'Lebah Sempage Utara':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(55,238,229,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -67,7 +67,7 @@ case 'LBS Utara':
                               bufferWidth)
     })];
                     break;
-case 'LBS Selatan':
+case 'Lebah Sempage Selatan':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(218,113,32,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -75,7 +75,7 @@ case 'LBS Selatan':
                               bufferWidth)
     })];
                     break;
-case 'LB Munte':
+case 'Lebah Munte':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(231,15,138,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
