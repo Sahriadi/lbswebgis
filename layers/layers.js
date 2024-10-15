@@ -26,16 +26,16 @@ var lyr_Dusun_1 = new ol.layer.Vector({
                 popuplayertitle: "Dusun",
                 interactive: true,
     title: 'Dusun<br />\
-    <img src="styles/legend/Dusun_1_0.png" /> TT Tengah<br />\
-    <img src="styles/legend/Dusun_1_1.png" /> Rep Tatar<br />\
-    <img src="styles/legend/Dusun_1_2.png" /> Rep Kantar<br />\
-    <img src="styles/legend/Dusun_1_3.png" /> PSJ Utara<br />\
-    <img src="styles/legend/Dusun_1_4.png" /> PSJ Selatan<br />\
-    <img src="styles/legend/Dusun_1_5.png" /> LM Barat<br />\
+    <img src="styles/legend/Dusun_1_0.png" /> Tatar Tengah Tengah<br />\
+    <img src="styles/legend/Dusun_1_1.png" /> Repok Tatar<br />\
+    <img src="styles/legend/Dusun_1_2.png" /> Repok Kantar<br />\
+    <img src="styles/legend/Dusun_1_3.png" /> Pesongan Jukung Utara<br />\
+    <img src="styles/legend/Dusun_1_4.png" /> Pesorongan Jukung Selatan<br />\
+    <img src="styles/legend/Dusun_1_5.png" /> Lebah Munte Barat<br />\
     <img src="styles/legend/Dusun_1_6.png" /> Lebah Sempage Utara<br />\
-    <img src="styles/legend/Dusun_1_7.png" /> LBS Utara<br />\
-    <img src="styles/legend/Dusun_1_8.png" /> LBS Selatan<br />\
-    <img src="styles/legend/Dusun_1_9.png" /> LB Munte<br />\
+    <img src="styles/legend/Dusun_1_7.png" /> Lebah Sempage Utara<br />\
+    <img src="styles/legend/Dusun_1_8.png" /> Lebah Sempage Selatan<br />\
+    <img src="styles/legend/Dusun_1_9.png" /> Lebah Munte<br />\
     <img src="styles/legend/Dusun_1_10.png" /> Kawasan Hutan<br />\
     <img src="styles/legend/Dusun_1_11.png" /> <br />'
         });
